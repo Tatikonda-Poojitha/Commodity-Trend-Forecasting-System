@@ -53,7 +53,6 @@ Commodity-Trend-Forecasting-System/
 │── users_db.json
 │── requirements.txt
 │── README.md
-└── screenshots/
 ```
 
 ---
@@ -97,18 +96,6 @@ streamlit run app.py
 7. View investment recommendations.
 8. Download the generated market analysis report.
 
----
-
-## Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Dashboard
-- Forecast Analysis
-- Technical Indicators
-- Investment Advisor
-- Professional Report
 
 ---
 
